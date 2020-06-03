@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi humans
+
+Im ultra, i like movies and tacos.  
